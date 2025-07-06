@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 /* eslint-disable @typescript-eslint/no-require-imports */
 /* eslint-disable no-undef */
-=======
 // eslint-disable @typescript-eslint/no-require-imports
 // eslint-disable no-undef
->>>>>>> 06d54bcf6c8dc27281865e07fdbe3d5005963bea
 // function multiply(a, b){
 //   return a * b;
 // }
@@ -24,7 +21,6 @@ describe('multiply()', function(){
     assert.equal(multiply(1, 1), 1)
   })
 })
-<<<<<<< HEAD
 
 describe('multiply()', function(){
   it('should return 4 when multiplying 2 and 2', function(){
@@ -32,6 +28,3 @@ describe('multiply()', function(){
   })
 })
 // assert.equal(multiply(2, 2),4);
-=======
- 
->>>>>>> 06d54bcf6c8dc27281865e07fdbe3d5005963bea
