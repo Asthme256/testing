@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // export default multiply;
 // // function multiply(a, b){
 // //   return 1;
@@ -42,7 +42,7 @@ function multiply(a, b) {
 
     
     
-=======
+
 // function multiply(a, b){
 //   return a * b;
 //   // return 1;
@@ -76,4 +76,3 @@ export default multiply;
 function multiply(a, b) {
   return a * b;
 }
->>>>>>> 0fd4b815eaa78f0dfb3171e8e120c292fed17a78
